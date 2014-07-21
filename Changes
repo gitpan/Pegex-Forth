@@ -1,3 +1,6 @@
+0.04 Mon Jul 21 15:39:05 PDT 2014
+ - Put runtime stuff (including dictionary) into ::Runtime class.
+
 0.03 Mon Jul 21 13:17:41 PDT 2014
  - 02 is unlucky!!
 
