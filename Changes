@@ -1,3 +1,8 @@
+0.06 Tue Jul 22 16:53:54 PDT 2014
+ - Refactor tests
+ - Add .s support
+ - Fix comments a bit
+
 0.05 Tue Jul 22 14:47:16 PDT 2014
  - Added comment support
  - Released next to Wendy and Josh in the Perl booth at OSCON. Damian and
