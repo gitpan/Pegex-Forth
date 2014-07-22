@@ -1,3 +1,9 @@
+0.05 Tue Jul 22 14:47:16 PDT 2014
+ - Added comment support
+ - Released next to Wendy and Josh in the Perl booth at OSCON. Damian and
+   Peter were lingering some 5 meters away. genehack just walked by. Josh'
+   baby awoke.
+
 0.04 Mon Jul 21 15:39:05 PDT 2014
  - Put runtime stuff (including dictionary) into ::Runtime class.
 

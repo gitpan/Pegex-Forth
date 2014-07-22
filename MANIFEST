@@ -11,6 +11,8 @@ bin/pegex-forth
 lib/Pegex/Forth.pm
 lib/Pegex/Forth.pod
 lib/Pegex/Forth/Runtime.pm
+t/TestPegexForth.pm
+t/comments.t
 t/release-pod-syntax.t
 t/run.t
 t/use_ok.t
