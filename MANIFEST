@@ -13,6 +13,7 @@ lib/Pegex/Forth.pod
 lib/Pegex/Forth/Runtime.pm
 t/TestPegexForth.pm
 t/comments.t
+t/error.t
 t/release-pod-syntax.t
 t/test_harness.t
 t/use_ok.t
