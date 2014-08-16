@@ -11,7 +11,6 @@ bin/pegex-forth
 lib/Pegex/Forth.pm
 lib/Pegex/Forth.pod
 lib/Pegex/Forth/Runtime.pm
-t/000-compile-modules.t
 t/TestPegexForth.pm
 t/comments.t
 t/error.t
